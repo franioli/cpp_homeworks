@@ -13,9 +13,9 @@ int main() {
   // ask for user inputs
   int min = 0;
   int max = 100;
-  cout << "Please provide the smallest number: ";
+  cout << "Please provide the smallest number: " << endl;
   cin >> min;
-  cout << "Please provide the largest number: ";
+  cout << "Please provide the largest number: " << endl;
   cin >> max;
 
   // generating random number
