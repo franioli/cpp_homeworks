@@ -39,7 +39,7 @@ int main() {
       cout << "Your number is too big. Try again!" << endl;
     } else if (guess == number) {
       cout << "You've done it! You guessed the number " << number << " in "
-           << tentatives << " guesses !" << endl;
+           << tentatives << " guesses!" << endl;
       break;
     }
   }
